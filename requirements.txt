@@ -1,0 +1,6 @@
+Flask>=3.0,<4
+gunicorn>=21,<24
+Pillow>=10,<12
+requests>=2.31,<3
+pet-pet-gif>=1.0
+setuptools==80.9.0
